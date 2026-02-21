@@ -1,0 +1,5 @@
+Flask
+SQLAlchemy
+JWT
+Pillow
+python-dotenv
